@@ -20,4 +20,6 @@ Ramas:
 - git branch
 - git checkout
 - git merge
+- Diferencias entre fast forward and ort
+
 
