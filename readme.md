@@ -15,3 +15,9 @@ features/about
 - about.html
 - about.ccs+about.js
 
+Ramas:
+
+- git branch
+- git checkout
+- git merge
+
